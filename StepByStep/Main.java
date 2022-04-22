@@ -14,7 +14,7 @@
  * 
  */
 
-package StepByStep.A01_Input_Output;
+package StepByStep;
 
 public class Main {
     public static void main(String[] args) {
