@@ -1,4 +1,3 @@
-
 /**
  * Author: CoxeMonkey
  * Create_at: 2022-04-21
@@ -14,20 +13,30 @@
  *   첫째 줄에 준하의 놀람을 출력한다. 놀람은 아이디 뒤에 ??!를 붙여서 나타낸다.
  * 
  * 예제 입력 1
- * 7 3
+ *   joonas
  * 예제 출력 1
- * 10
- * 4
- * 21
- * 2
- * 1
+ *   joonas??!
+ * 
+ * 예제 입력 2
+ *   baekjoon
+ * 예제 출력 2
+ *   baekjoon??!
  * 
  * 문제 해결
+ *   문자열을 밭고 ??! 을 + 연산자를 이용하여 출력 하였습니다.  
  * 
  */
 
+package StepByStep.A01_Input_Output;
+
+import java.util.Scanner;
 public class N10_ID_10926 {
   public static void main(String[] args) {
+    Scanner sc = new Scanner(System.in);
+    String  nID = sc.next();
 
+    System.out.println(nID + "??!");
+
+    sc.close();
   }
 }

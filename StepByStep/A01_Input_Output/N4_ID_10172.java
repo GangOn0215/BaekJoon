@@ -18,6 +18,7 @@
  * 
  */
 
+package StepByStep.A01_Input_Output;
 
 public class N4_ID_10172 {
   

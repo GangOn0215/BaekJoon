@@ -1,3 +1,5 @@
+package StepByStep.A04_Array;
+
 import java.util.Scanner;
 
 public class N1_ID_10818 {

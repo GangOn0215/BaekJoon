@@ -26,6 +26,8 @@
  * 
  */
 
+package StepByStep.A01_Input_Output;
+
 import java.util.Scanner;
 
 public class N11_ID_18108 {

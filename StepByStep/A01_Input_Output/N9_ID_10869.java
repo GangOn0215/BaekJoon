@@ -23,6 +23,8 @@
  * 
  */
 
+package StepByStep.A01_Input_Output;
+
 import java.util.Scanner;
 
 public class N9_ID_10869 {

@@ -14,6 +14,7 @@
  *   강한친구 대한육군
  *
  */
+package StepByStep.A01_Input_Output;
 
 public class N2_ID_10718 {
   

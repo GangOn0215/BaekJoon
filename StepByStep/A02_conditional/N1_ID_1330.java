@@ -34,6 +34,8 @@
  * 
  */
 
+package StepByStep.A02_Conditional;
+
 import java.util.Scanner;
 
 public class N1_ID_1330 {

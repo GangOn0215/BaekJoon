@@ -33,6 +33,9 @@
  * 문제 해결
  * 
  */
+
+package StepByStep.A04_Array;
+
 import java.util.Scanner;
 public class N7_ID_4344 {
   public static void main(String[] args) {
